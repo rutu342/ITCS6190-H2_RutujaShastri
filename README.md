@@ -1,2 +1,4 @@
 # ITCS6190-H2_RutujaShastri
-cloud computing for data analysis course repo
+Name : Rutuja Hemant Shastri
+Student ID : 801484366
+Email : rshastri@charlotte.edu
