@@ -36,10 +36,8 @@ ITCS6190-H2_RutujaShastri/
 ### 1. Clone the Repository
 
 Clone the GitHub repository using:
-
-```bash
 git clone https://github.com/rutu342/ITCS6190-H2_RutujaShastri.git
-cd ITCS6190-H2_RutujaShastri
+
 ###Verify Project Files
 app.py
 Dockerfile
@@ -47,7 +45,12 @@ compose.yaml
 requirements.txt
 README.md
 .gitignore
+
+#Run this Command
 docker compose up
+
 ###Open the Web Application
 http://localhost:8000
+
+Run docker compose down when done.
 
